@@ -8,6 +8,6 @@ Cypress 3.1.0
 
 ### Installation Instructions
 
-1.)	Clone cypress-automation-project repository</br>
-2.)	Install Cypress.io</br>
-3.)	Run cypress-automation.js file</br>
+1. Clone cypress-automation-project repository</br>
+2. Install Cypress.io</br>
+3. Run cypress-automation.js file</br>
